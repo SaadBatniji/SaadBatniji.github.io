@@ -1,0 +1,25 @@
+/* Fichier CSS à personnaliser */
+
+body { 
+	
+	background: linear-gradient(#ff1700,#fe7700 )  
+	
+	}
+
+h1 {
+    text-align: center;
+    color: red;
+    background-color: black;
+  }
+  
+.special {
+    color: orange;
+    background-color: navy;
+    border: solid black;
+  }
+  
+ img {
+	 width:50%
+ }
+
+
